@@ -1,0 +1,5 @@
+print('Now I will count my spendings:')
+print('in last month I bought something for home care')
+print('soapwasher was 300 soms and products for home was 1200 soms, that equal to', 300+1200 , 'soms' )
+print('also, for public service:')
+print('water - 120,50 and gas - 320.5, so in common it', 120.50+320.5, 'soms')
